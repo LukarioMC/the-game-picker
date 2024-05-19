@@ -1,0 +1,25 @@
+# Ignore modules
+/node_modules
+
+# Any env files
+.env
+.env.*
+
+# next.js folders
+/.next/
+
+# Vercel configuration
+.vercel
+
+# Typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
